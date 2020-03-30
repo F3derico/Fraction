@@ -4,6 +4,13 @@ class Fraction {
 
 	Fraction(int n, int d) throws ArithmeticException {
 	}
+	
+	int getNum() {
+		return 0;
+	}
+	int getDen() {
+		return 0;
+	}
 
 	boolean isProper() {
 		return false;
